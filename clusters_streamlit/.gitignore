@@ -1,0 +1,4 @@
+venv
+encoder.pkl
+kmeans.pkl
+scaler.pkl
